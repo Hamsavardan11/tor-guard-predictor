@@ -1,0 +1,18 @@
+{
+  "top_1_accuracy": 1.0,
+  "top_3_accuracy": 1.0,
+  "top_5_accuracy": 1.0,
+  "top_10_accuracy": 1.0,
+  "top_20_accuracy": 1.0,
+  "num_samples_test": 3750,
+  "ensemble_components": [
+    "xgboost",
+    "lightgbm",
+    "catboost"
+  ],
+  "ensemble_weights": {
+    "xgboost": 0.4,
+    "lightgbm": 0.3,
+    "catboost": 0.3
+  }
+}

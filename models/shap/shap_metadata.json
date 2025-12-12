@@ -1,0 +1,8 @@
+{
+  "note": "SHAP explainer for on-demand computation",
+  "model_type": "XGBoost Booster",
+  "num_features": 75,
+  "num_classes": 500,
+  "memory_optimized": true,
+  "usage": "Use explainer.shap_values() on small batches only"
+}

@@ -1,0 +1,12 @@
+{
+  "top_1_accuracy": 1.0,
+  "top_3_accuracy": 1.0,
+  "top_5_accuracy": 1.0,
+  "top_10_accuracy": 1.0,
+  "top_20_accuracy": 1.0,
+  "training_time_seconds": 2167.8170235157013,
+  "num_samples_train": 17499,
+  "num_samples_test": 3750,
+  "num_features": 75,
+  "num_classes": 500
+}
